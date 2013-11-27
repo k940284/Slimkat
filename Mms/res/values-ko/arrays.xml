@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>제목 없음</item>
+    </string-array>
+    <string-array name="pref_mms_notification_vibrate_pattern_entries">
+        <item>일반</item>
+        <item>중간 진동</item>
+        <item>길게 진동</item>
+        <item>여러번 짧게</item>
+        <item>여러번 길게</item>
+        <item>@string/pref_title_mms_notification_vibrate_custom</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>항상</item>
+        <item>무음시</item>
+        <item>사용 안함</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1초</item>
+        <item>2초</item>
+        <item>3초</item>
+        <item>4초</item>
+        <item>5초</item>
+        <item>6초</item>
+        <item>7초</item>
+        <item>8초</item>
+        <item>9초</item>
+        <item>10초</item>
+        <item>기타</item>
+    </string-array>
+</resources>

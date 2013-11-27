@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Spare Parts</string>
+    <string name="device_info_title">장치 정보</string>
+    <string name="title_battery_history">배터리 내역</string>
+    <string name="summary_battery_history">배터리가 사용된 내역 요약</string>
+    <string name="title_battery_information">배터리 정보</string>
+    <string name="summary_battery_information">현재 배터리 상태 정보</string>
+    <string name="title_usage_statistics">사용 통계</string>
+    <string name="summary_usage_statistics">애플리케이션 사용 요약</string>
+    <string name="general_title">일반</string>
+    <string name="title_window_animations">창 애니메이션</string>
+    <string name="summary_window_animations">개별 창에서 애니메이션 속도</string>
+    <string name="dialog_title_window_animations">창 속도 선택</string>
+    <string name="title_transition_animations">전환 애니메이션</string>
+    <string name="summary_transition_animations">화면 사이를 이동하는 애니메이션 속도</string>
+    <string name="dialog_title_transition_animations">전환 속도 선택</string>
+    <string name="title_fancy_ime_animations">팬시 입력 애니메이션</string>
+    <string name="summary_on_fancy_ime_animations">입력 방법 창에 팬시 애니메이션을 사용</string>
+    <string name="summary_off_fancy_ime_animations">입력 방법 창에 일반적인 애니메이션을 사용</string>
+    <string name="title_haptic_feedback">햅틱 피드백</string>
+    <string name="summary_on_haptic_feedback">사용자 상호 작용 햅틱 피드백을 사용</string>
+    <string name="summary_off_haptic_feedback">사용자 상호 작용 햅틱 피드백을 사용</string>
+    <string name="title_font_size">폰트 크기</string>
+    <string name="summary_font_size">폰트의 전체 크기</string>
+    <string name="dialog_title_font_size">폰트 크기를 선택</string>
+    <string name="title_end_button">종료 버튼 동작</string>
+    <string name="summary_end_button">종료(빨간색) 버튼 작업을 선택</string>
+    <string name="dialog_title_end_button">종료 버튼 선택</string>
+    <string name="applications_title">애플리케이션</string>
+    <string name="compatibility_mode_title">호환성 모드</string>
+    <string name="compatibility_mode_summary_on">호환성 모드에서 이전 애플리케이션을 실행합니다. 재부팅이 필요합니다.</string>
+    <string name="compatibility_mode_summary_off">호환성 모드에서 이전 애플리케이션을 실행합니다. 재부팅이 필요합니다.</string>
+</resources>

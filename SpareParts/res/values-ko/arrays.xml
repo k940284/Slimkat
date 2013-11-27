@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="entries_animations">
+        <item>사용 안함</item>
+        <item>빠름</item>
+        <item>일반</item>
+        <item>느림</item>
+        <item>매우 느림</item>
+    </string-array>
+    <string-array name="entries_font_size">
+        <item>매우 작게</item>
+        <item>조금 작게</item>
+        <item>작게</item>
+        <item>일반</item>
+        <item>크게</item>
+        <item>조금 크게</item>
+        <item>매무 크게</item>
+    </string-array>
+    <string-array name="entries_end_button">
+        <item>없음</item>
+        <item>홈</item>
+        <item>절전</item>
+        <item>홈 및 절전</item>
+    </string-array>
+</resources>

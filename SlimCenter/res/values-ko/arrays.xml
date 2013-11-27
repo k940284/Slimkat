@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="slimsizer_profile_array">
+        <item>프로필 불러오기</item>
+        <item>프로필 저장</item>
+    </string-array>
+</resources>
