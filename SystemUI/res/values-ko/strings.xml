@@ -7,6 +7,47 @@
     <string name="quick_settings_battery_discharging">충전 해제</string>
     <string name="app_killed_message">앱 종료됨</string>
     <string name="screenshot_notification_delete">삭제</string>
+	<string name="accessibility_data_connection_HP">HSPA+</string>
+    <string name="quick_settings_gps">GPS</string>
+    <string name="quick_settings_gps_off">GPS 꺼짐</string>
+	<string name="quick_settings_ringer_on">소리 켜짐</string>
+    <string name="quick_settings_ringer_off">소리 꺼짐</string>
+    <string name="quick_settings_screen_sleep">절전모드</string>
+    <string name="quick_settings_vibration_on">진동 켜짐</string>
+    <string name="quick_settings_vibration_off">진동 꺼짐</string>
+    <string name="quick_settings_label_enabled">켜짐</string>
+    <string name="quick_settings_label_disabled">꺼짐</string>
+    <string name="quick_settings_ringer_normal">소리</string>
+    <string name="quick_settings_lockscreen">잠금 화면</string>
+    <string name="quick_settings_network_type">네트워크 모드</string>
+    <string name="quick_settings_report_bug">버그 리포트</string>
+    <string name="quick_settings_sync">동기화</string>
+    <string name="quick_settings_sync_off">동기화 꺼짐</string>
+    <string name="quick_settings_torch">손전등</string>
+    <string name="quick_settings_torch_off">손전등 꺼짐</string>
+    <string name="quick_settings_nfc">NFC</string>
+    <string name="quick_settings_nfc_off">NFC 꺼짐</string>
+    <string name="quick_settings_screen_timeout">시간 제한</string>
+    <string name="quick_settings_screen_timeout_summary">%1$d %2$s</string>
+    <string name="quick_settings_screen_timeout_summary_never">사용 안함</string>
+    <string name="quick_settings_usb_tether_off_label">연결 끊김</string>
+    <string name="quick_settings_usb_tether_connected_label">테더링 꺼짐</string>
+    <string name="quick_settings_usb_tether_on_label">테더링</string>
+    <string name="quick_settings_wifiap">Wi-Fi AP</string>
+    <string name="quick_settings_wifiap_off">Wi-Fi AP 꺼짐</string>
+    <string name="quick_settings_quiethours">조용히 모드</string>
+    <string name="quick_settings_quiethours_off">조용히 모드 꺼짐</string>
+    <string name="quick_settings_lte">LTE</string>
+    <string name="quick_settings_lte_off">LTE 꺼짐</string>
+    <string name="quick_settings_volume">볼륨</string>
+    <string name="quick_settings_expanded_desktop">확장됨</string>
+    <string name="quick_settings_expanded_desktop_off">일반</string>
+    <string name="quick_settings_music_play">재생</string>
+    <string name="quick_settings_music_pause">일시 정지</string>
+    <string name="quick_settings_reboot_recovery">리커버리</string>
+    <string name="quick_settings_reboot">재부팅</string>
+    <string name="quick_settings_wifi_display_label">Wi-Fi 디스플레이</string>
+    <string name="quick_settings_wifi_display_no_connection_label">무선 디스플레이</string>
     <string name="app_label">시스템 UI</string>
     <string name="status_bar_clear_all_button">지우기</string>
     <string name="status_bar_recent_remove_item_title">목록에서 삭제</string>
@@ -19,8 +60,7 @@
     <string name="battery_low_title">충전기를 연결하세요.</string>
     <string name="battery_low_subtitle">배터리가 얼마 남지 않았습니다.</string>
     <string name="battery_low_percent_format">%d%% 남음</string>
-    <string name="invalid_charger">"USB 충전이 지원되지 않습니다.
-제공된 충전기만 사용하세요."</string>
+    <string name="invalid_charger">"USB 충전이 지원되지 않습니다. 제공된 충전기만 사용하세요."</string>
     <string name="battery_low_why">배터리 사용량</string>
     <string name="status_bar_settings_settings_button">설정</string>
     <string name="status_bar_settings_wifi_button">Wi-Fi</string>
@@ -44,8 +84,7 @@
     <string name="always_use_device">이 USB 기기에 기본값으로 사용</string>
     <string name="always_use_accessory">이 USB 액세서리에 기본값으로 사용</string>
     <string name="usb_debugging_title">USB 디버깅을 허용하시겠습니까?</string>
-    <string name="usb_debugging_message">"컴퓨터 RSA 키 지문:
-%1$s"</string>
+    <string name="usb_debugging_message">"컴퓨터 RSA 키 지문: %1$s"</string>
     <string name="usb_debugging_always">이 컴퓨터에서 항상 허용</string>
     <string name="compat_mode_on">전체화면 모드로 확대</string>
     <string name="compat_mode_off">전체화면 모드로 확대</string>
@@ -141,14 +180,13 @@
     <string name="accessibility_quick_settings_battery">배터리 %s</string>
     <string name="accessibility_quick_settings_airplane">비행기 모드가 %s 상태입니다.</string>
     <string name="accessibility_quick_settings_bluetooth">블루투스 %s</string>
+	<string name="accessibility_quick_settings_location">위치 %s.</string>
     <string name="accessibility_quick_settings_alarm">알람이 %s(으)로 설정되었습니다.</string>
     <string name="data_usage_disabled_dialog_3g_title">2G-3G 데이터 사용중지됨</string>
     <string name="data_usage_disabled_dialog_4g_title">4G 데이터 사용중지됨</string>
     <string name="data_usage_disabled_dialog_mobile_title">모바일 데이터 사용중지됨</string>
     <string name="data_usage_disabled_dialog_title">데이터 사용중지됨</string>
-    <string name="data_usage_disabled_dialog">"지정된 데이터 사용 한도에 도달했습니다.
-
-데이터 연결을 다시 사용하면 통신사에서 요금이 부과될 수도 있습니다."</string>
+    <string name="data_usage_disabled_dialog">"지정된 데이터 사용 한도에 도달했습니다. 데이터 연결을 다시 사용하면 통신사에서 요금이 부과될 수도 있습니다."</string>
     <string name="data_usage_disabled_dialog_enable">데이터 연결 다시 사용</string>
     <string name="status_bar_settings_signal_meter_disconnected">인터넷에 연결되지 않음</string>
     <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi 연결됨</string>
@@ -185,11 +223,9 @@
     <string name="quick_settings_wifi_not_connected">연결되어 있지 않음</string>
     <string name="quick_settings_wifi_no_network">네트워크가 연결되지 않음</string>
     <string name="quick_settings_wifi_off_label">Wi-Fi 꺼짐</string>
-    <string name="quick_settings_wifi_display_label">Wi-Fi 디스플레이</string>
-    <string name="quick_settings_wifi_display_no_connection_label">무선 디스플레이</string>
+	<string name="quick_settings_remote_display_no_connection_label">캐스트 화면</string>
     <string name="quick_settings_brightness_dialog_title">밝기</string>
     <string name="quick_settings_brightness_dialog_auto_brightness_label">자동</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
-    <string name="ssl_ca_cert_warning">"네트워크가
- 모니터링될 수 있음"</string>
+    <string name="ssl_ca_cert_warning">"네트워크가  모니터링될 수 있음"</string>
 </resources>
