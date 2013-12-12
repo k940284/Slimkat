@@ -19,7 +19,6 @@
     <string name="call_notif_forwardcheckreceived">전화가 전달되었습니다</string>
     <string name="call_notif_callconnectingect">명시적 통화 전송을 통해 전화 연결중</string>
     <string name="call_notif_callconnectedect">명시적 통화 전송을 통해 연결된 전화</string>
-    <string name="advanced_setting">고급 설정</string>
     <string name="incall_vibration">통화중 진동</string>
     <string name="vibrate_outgoing">응답시 진동</string>
     <string name="vibrate_call_waiting">통화 대기시 진동</string>
@@ -40,6 +39,10 @@
 	 <string name="preference_category_interface">인터페이스</string>
     <string name="non_intrusive_incall_title">비 간섭</string>
     <string name="non_intrusive_incall_summary">수신 통화에 대해 비 간섭 대화 상자를 사용</string>
+	<string name="mwi_notification_title">메시지 대기 표시</string>
+    <string name="mwi_notification_summary">음성 메일 메시지 대기 표시등 알림 보기</string>
+	<string name="perm_change_mobile_network">네트워크 모드 변경 (2G/3G)</string>
+    <string name="perm_change_mobile_network_desc">앱이 언제라도 2G 데이터 및 3G 데이터 사이에서 변경할 수 있습니다. 3G는 빠르지만 더 많은 배터리를 소모하며 추가 비용이 발생할 수 있습니다.</string>
     <string name="phoneAppLabel">휴대전화</string>
     <string name="emergencyDialerIconLabel">긴급 통화</string>
     <string name="phoneIconLabel">휴대전화</string>

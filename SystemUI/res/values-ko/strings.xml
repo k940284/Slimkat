@@ -46,8 +46,6 @@
     <string name="quick_settings_music_pause">일시 정지</string>
     <string name="quick_settings_reboot_recovery">리커버리</string>
     <string name="quick_settings_reboot">재부팅</string>
-    <string name="quick_settings_wifi_display_label">Wi-Fi 디스플레이</string>
-    <string name="quick_settings_wifi_display_no_connection_label">무선 디스플레이</string>
     <string name="app_label">시스템 UI</string>
     <string name="status_bar_clear_all_button">지우기</string>
     <string name="status_bar_recent_remove_item_title">목록에서 삭제</string>
