@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pref_gmail_accounts_summary_template">
+        <item quantity="other">%2$d개 계정 중 %1$d개 선택됨</item>
+        <item quantity="one">%2$d개 계정 중 %1$d개 선택됨</item>
+    </plurals>
+    <plurals name="pref_calendar_selected_summary_template">
+        <item quantity="other">%2$d개 캘린더 중 %1$d개 선택됨</item>
+        <item quantity="one">%2$d개 캘린더 중 %1$d개 선택됨</item>
+    </plurals>
+    <plurals name="gmail_title_template">
+        <item quantity="other">%1$d개 읽지 않음</item>
+    </plurals>
+    <plurals name="calendar_template_days">
+        <item quantity="other">%1$s 일</item>
+        <item quantity="one">%1$s 일</item>
+    </plurals>
+    <plurals name="calendar_template_hours">
+        <item quantity="other">%1$s시간</item>
+        <item quantity="one">%1$s시간</item>
+    </plurals>
+    <plurals name="calendar_template_mins">
+        <item quantity="other">%1$s분</item>
+    </plurals>
+    <plurals name="missed_calls_title_template">
+        <item quantity="other">%1$s개 부재중 전화</item>
+        <item quantity="one">%1$s개 부재중 전화</item>
+    </plurals>
+    <plurals name="sms_title_template">
+        <item quantity="other">%1$s개 읽지 않음</item>
+        <item quantity="one">%1$s개 읽지 않음</item>
+    </plurals>
+</resources>

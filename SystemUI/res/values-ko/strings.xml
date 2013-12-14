@@ -8,6 +8,14 @@
     <string name="app_killed_message">앱 종료됨</string>
     <string name="screenshot_notification_delete">삭제</string>
 	<string name="accessibility_data_connection_HP">HSPA+</string>
+	<string name="shortcut_picker">Slim 바로가기</string>
+    <string name="shortcut_immersive">전체 화면 모드</string>
+    <string name="shortcut_quiethours">무음 시간</string>
+    <string name="shortcut_rotation">회전 잠금</string>
+    <string name="shortcut_torch">손전등</string>
+    <string name="shortcut_reboot">재부팅 (즉시)</string>
+    <string name="shortcut_last_app">마지막 앱</string>
+    <string name="shortcut_screenshot">스크린샷</string>
     <string name="quick_settings_gps">GPS</string>
     <string name="quick_settings_gps_off">GPS 꺼짐</string>
 	<string name="quick_settings_ringer_on">소리 켜짐</string>

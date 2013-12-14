@@ -639,6 +639,7 @@
 	<string name="lockscreen_style_reset_message">모든 잠금화면 색상을 초기화하시겠습니까?</string>
     <string name="lockscreen_icon_title">잠금 핸들 아이콘</string>
     <string name="lockscreen_lock_icon_custom">사용자 지정 아이콘</string>
+	<string name="lockscreen_lock_icon_slim">Slim 아이콘</string>
     <string name="lockscreen_lock_icon_default">기본 아이콘</string>
     <string name="lockscreen_colorize_handle_title">사용자 지정 핸들 색상화</string>
     <string name="lockscreen_colorize_handle_summary">잠금 장치 색상이 사용자 지정 이미지로 설정됩니다</string>
@@ -721,6 +722,11 @@
     <string name="title_tile_expanded_desktop">확장 데스크탑</string>
     <string name="title_tile_music">음악</string>
     <string name="title_tile_reboot">재부팅</string>
+	<string name="dynamic_tile_ime_switcher">IME 전환</string>
+    <string name="dynamic_tile_usb_tether">USB 테더링</string>
+    <string name="dynamic_tile_alarm">알람</string>
+    <string name="dynamic_tile_bugreport">버그리포트</string>
+    <string name="dynamic_tiles_title">동적 타일</string>
     <string name="tiles_reset_message">표시된 타일과 레이아웃을 기본값으로 복원 하시겠습니까?</string>
 	<string name="disable_qs">빠른 설정 사용 안함</string>
     <string name="disable_qs_message">모든 타일을 제거하였습니다. 빠른 설정을 사용할 수 없습니다. 타일을 추가하려면 사용으로 설정하세요."</string>

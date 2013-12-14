@@ -1,1 +1,1 @@
-Slim-4.4.1.beta.1.5-WEEKLY
+Slim-4.4.2.beta.1.7-WEEKLY
