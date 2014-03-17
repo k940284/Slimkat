@@ -362,7 +362,7 @@
     <string name="shortcut_action_back">뒤로</string>
     <string name="shortcut_action_recent">최근 실행</string>
     <string name="shortcut_action_lastapp">마지막 앱</string>
-    <string name="shortcut_action_search">검색</string>
+    <string name="shortcut_action_assist">검색</string>
 	<string name="shortcut_action_search">앱에서 검색</string>
     <string name="shortcut_action_voice_search">음성 검색</string>
     <string name="shortcut_action_screenshot">스크린샷</string>
@@ -1995,7 +1995,6 @@
     <string name="filter_apps_third_party">다운로드</string>
     <string name="filter_apps_running">실행 중</string>
     <string name="filter_apps_onsdcard">USB 저장소</string>
-    <string name="disabled">사용 안함</string>
     <string name="not_installed">설치되지 않음</string>
     <string name="no_applications">앱 없음</string>
     <string name="internal_storage">내부 저장소</string>
