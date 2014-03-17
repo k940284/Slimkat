@@ -20,6 +20,15 @@
     <string name="cities_delete_city_failed">도시를 삭제할수 없습니다</string>
     <string name="show_status_bar_icon_title">아이콘 표시</string>
     <string name="show_status_bar_icon_summary">알람이 설정되어 있을시 상태바에 아이콘 표시</string>
+	<string name="flip_action_title">뒤집기 동작</string>
+    <string name="flip_action_dialog_title">장치를 뒤집으면…</string>
+    <string name="flip_action_summary">휴대 전화를 아래로 뒤집을시 %s 됩니다</string>
+    <string name="shake_action_title">흔들기 동작</string>
+    <string name="shake_action_dialog_title">장치를 흔들시…</string>
+    <string name="shake_action_summary">휴대 전화를 흔들시 %s 됩니다</string>
+    <string name="action_summary_do_nothing">아무것도 안함</string>
+    <string name="action_summary_snooze">알람 일시정지</string>
+    <string name="action_summary_dismiss">알람 취소</string>
     <string name="app_label">시계</string>
     <string name="alarm_list_title">알람</string>
     <string name="add_alarm">알람 추가</string>

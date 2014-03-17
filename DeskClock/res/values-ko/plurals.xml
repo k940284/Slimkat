@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">%d분 알람 일시 중지합니다.</item>
+        <item quantity="one">%d분 알람 일시 중지합니다.</item>
+    </plurals>
     <plurals name="snooze_duration">
         <item quantity="other">%d분</item>
         <item quantity="one">1분</item>

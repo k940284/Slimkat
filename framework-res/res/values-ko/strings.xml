@@ -1296,7 +1296,6 @@
     <string name="default_audio_route_category_name">시스템</string>
     <string name="bluetooth_a2dp_audio_route_name">블루투스 오디오</string>
     <string name="wireless_display_route_description">무선 디스플레이</string>
-    <string name="media_route_chooser_grouping_done">완료</string>
     <string name="media_route_button_content_description">미디어 출력</string>
     <string name="media_route_status_scanning">검색 중...</string>
     <string name="media_route_status_connecting">연결 중...</string>
@@ -1308,8 +1307,6 @@
     <string name="display_manager_overlay_display_name">%1$d번째 오버레이</string>
     <string name="display_manager_overlay_display_title">%1$s: %2$dx%3$d, %4$d dpi</string>
     <string name="display_manager_overlay_display_secure_suffix">, 보안</string>
-    <string name="wifi_display_notification_title">무선 디스플레이가 연결되었습니다.</string>
-    <string name="wifi_display_notification_message">이 화면은 다른 기기에서 표시되고 있습니다.</string>
     <string name="wifi_display_notification_disconnect">연결 해제</string>
     <string name="kg_emergency_call_label">긴급 통화</string>
     <string name="kg_forgot_pattern_button_text">패턴을 잊음</string>

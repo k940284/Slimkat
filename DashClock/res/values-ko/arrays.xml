@@ -7,6 +7,14 @@
         <item>75% 검정</item>
         <item>100% 검정</item>
     </string-array>
+	<string-array name="pref_collapse_conditions_names">
+        <item>항상 작은 위젯을 축소</item>
+        <item>2+ 확장 표시됩니다</item>
+        <item>3+ 확장 표시됩니다</item>
+        <item>4+ 확장 표시됩니다</item>
+        <item>5+ 확장 표시됩니다</item>
+        <item>축소하지 마십시오</item>
+    </string-array>
 	<string-array name="pref_settings_button_display_names">
         <item>숨기기</item>
         <item>확장 위젯에</item>
@@ -33,5 +41,14 @@
         <item>슬라이드</item>
         <item>페이드</item>
         <item>없음 (화면이 손상될수 있습니다)</item>
+    </string-array>
+	<string-array name="pref_font_display_names">
+        <item>Light</item>
+        <item>Condensed</item>
+    </string-array>
+	<string-array name="pref_text_density_display_names">
+        <item>Comfortable</item>
+        <item>Cozy</item>
+        <item>Compact</item>
     </string-array>
 </resources>

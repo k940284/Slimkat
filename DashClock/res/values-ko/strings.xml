@@ -39,6 +39,12 @@
     <string name="pref_daydream_night_mode_description">디스플레이를 아주 어둡게 하기(어두운 장소용)</string>
     <string name="pref_daydream_animation_title">애니메이션</string>
     <string name="pref_daydream_system_settings_title">시스템의 화면 보호기 설정</string>
+	 <string name="pref_font_title">폰트</string>
+    <string name="pref_background_color_title">배경 색상</string>
+    <string name="pref_background_color_description">배경의 색상</string>
+    <string name="pref_show_separator_title">확장 사이 구분</string>
+    <string name="pref_show_separator_description">각 확장 아래에 그림자를 표시합니다</string>
+    <string name="pref_text_density_title">문자 농도</string>
 	<string name="app_name">DashClock 위젯</string>
     <string name="widget_label">DashClock</string>
     <string name="status_none">––</string>

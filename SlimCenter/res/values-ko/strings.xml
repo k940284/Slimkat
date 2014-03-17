@@ -15,6 +15,9 @@
     <string name="no_data_title">사용 가능한 데이터 연결 없음</string>
     <string name="error_reading_title">SlimOTA 속성을 읽을수 없습니다</string>
     <string name="update_file_title">업데이트:</string>
+	 <string name="reboot">모두 완료! 장치를 재부팅합니다.</string>
+    <string name="reboot_ok">지금 재부팅</string>
+    <string name="reboot_cancel">재부팅하지 마십시오</string>
     <string name="settings_title">SlimOTA 설정</string>
     <string name="about_title">정보</string>
     <string name="update_interval_title">자동 업데이트 확인 간격</string>
