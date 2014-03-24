@@ -115,7 +115,5 @@
     <string name="sms_body_template">발신자: %1$s</string>
     <string name="sms_body_all_participants_template">참여자: %1$s</string>
     <string name="welcome_title">DashClock 꾸미기</string>
-    <string name="welcome_description">현재 날짜와 시간만 보고 싶으신가요? 그럼 위의 체크 표시를 눌러주세요. 하지만 <i>확장 프로그램</i>"들로 DashClock을 꾸며보는 게 어때요? 
-
-"<b>확장 프로그램</b>"은 시기적절하고 중요한 정보를 DashClock 안에 표시합니다. 아래의 몇 가지 확장 프로그램을 추가하여 사용해보세요. "</string>
+    <string name="welcome_description">현재 날짜와 시간만 보고 싶으신가요? 그럼 위의 체크 표시를 눌러주세요. 하지만 <i>확장 프로그램</i>"들로 DashClock을 꾸며보는 게 어때요?"<b>확장 프로그램</b>"은 시기적절하고 중요한 정보를 DashClock 안에 표시합니다. 아래의 몇 가지 확장 프로그램을 추가하여 사용해보세요. "</string>
 </resources>
