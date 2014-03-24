@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abbrev_wday_month_day_no_year">EEEMMMMd</string>
-    <string name="full_wday_month_day_no_year">EEEEMMMMd</string>
+    <string name="abbrev_wday_month_day_no_year">MMMMdEEE</string>
+    <string name="full_wday_month_day_no_year">MMMMdEEEE</string>
     <string name="default_clock_style">디지털</string>
     <string name="alarm_increasing_volume">증가하는 볼륨</string>
     <string name="menu_item_add">추가</string>
