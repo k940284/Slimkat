@@ -114,6 +114,8 @@
     <string name="pie_phone_status_airplane_mode">비행기 모드 켜짐</string>
     <string name="pie_phone_status_emergency_only">긴급 전화 만</string>
     <string name="smart_pulldown_disabled">스마트 풀다운을 사용하지 않습니다</string>
+	<string name="accessibility_ime_navigation_left">왼쪽 커서</string>
+    <string name="accessibility_ime_navigation_right">오른쪽 커서</string>
     <string name="app_label">시스템 UI</string>
     <string name="status_bar_clear_all_button">지우기</string>
     <string name="status_bar_recent_remove_item_title">목록에서 삭제</string>
